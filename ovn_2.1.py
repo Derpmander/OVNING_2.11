@@ -1,4 +1,3 @@
-import math#importerar math
 i=float(input("Mätarställning i dag?: "))#Läser in dagens mätarställning
 v=float(input("Mätarställning för ett år sedan?: "))#läser in mätarställningne för ett år sedan
 m=i-v#Räknar ut hur många mil man åkt på ett år
